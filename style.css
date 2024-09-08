@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+
+
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: cairo;
+}
+
+
+h1 {
+    font-family: cairo;
+    margin-top: -2%;
+}
+
+#depuis-1987 {
+    margin-top: -4%;
+}
+
+.st-emotion-cache-6qob1r {
+    background-color: rgb(247, 247, 247);
+}
+
+div.st-emotion-cache-12w0qpk:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(3) > svg:nth-child(1) {
+    visibility: hidden;
+}
+
+div.st-emotion-cache-12w0qpk:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(3) > div:nth-child(2) {
+    font-size: 1.5rem;
+}
+
+div.st-emotion-cache-12w0qpk:nth-child(3) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(3) > svg:nth-child(1) {
+    visibility: hidden;
+}
+
+div.st-emotion-cache-12w0qpk:nth-child(3) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(3) > div:nth-child(2) {
+    font-size: 1.5rem;
+}
+
+div.st-emotion-cache-12w0qpk:nth-child(4) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(3) > svg:nth-child(1) {
+    visibility: hidden;
+}
+
+div.st-emotion-cache-12w0qpk:nth-child(4) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(3) > div:nth-child(2) {
+    font-size: 1.5rem
+}
+
+
+
+.coder {
+    line-height: 30%;
+    color: rgb(185, 185, 185);
+    
+    a {
+        font-size: .9rem;
+        padding-left: 23px;
+    }
+    
+    
+    p {
+        font-size: .9rem;
+    }
+    
+    
+}
